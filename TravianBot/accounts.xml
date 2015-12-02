@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Accounts xmlns="Accounts">
+     <Account>
+          <Id>1</Id>
+          <Username>Kahval</Username>
+          <Password>25252525</Password>
+          <Email>s4yk0warrior@gmail.com</Email>
+          <Proxy>0</Proxy>
+     </Account>
+     <Account>
+          <Id>2</Id>
+          <Username>Emir</Username>
+          <Password>1234</Password>
+          <Email>s4yk0warrior2@gmail.com</Email>
+          <Proxy>1</Proxy>
+     </Account>
+</Accounts>

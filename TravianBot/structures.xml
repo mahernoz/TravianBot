@@ -1,0 +1,2444 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Structures>
+     <Structure id="1" name="Woodcutter">
+          <Lvl value="1">
+               <Reqs>
+                    <Res type="WOOD">40</Res>
+                    <Res type="CLAY">100</Res>
+                    <Res type="Iron">50</Res>
+                    <Res type="CROP">60</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>1</CP>
+               <Upgtime>0:04:20</Upgtime>
+               <Prod>5</Prod>
+          </Lvl>
+          <Lvl value="2">
+               <Reqs>
+                    <Res type="WOOD">65</Res>
+                    <Res type="CLAY">165</Res>
+                    <Res type="Iron">85</Res>
+                    <Res type="CROP">100</Res>
+               </Reqs>
+               <CU>1</CU>
+               <CP>1</CP>
+               <Upgtime>0:10:20</Upgtime>
+               <Prod>9</Prod>
+          </Lvl>
+          <Lvl value="3">
+               <Reqs>
+                    <Res type="WOOD">110</Res>
+                    <Res type="CLAY">280</Res>
+                    <Res type="Iron">140</Res>
+                    <Res type="CROP">165</Res>
+               </Reqs>
+               <CU>1</CU>
+               <CP>2</CP>
+               <Upgtime>0:19:50</Upgtime>
+               <Prod>15</Prod>
+          </Lvl>
+          <Lvl value="4">
+               <Reqs>
+                    <Res type="WOOD">185</Res>
+                    <Res type="CLAY">465</Res>
+                    <Res type="Iron">235</Res>
+                    <Res type="CROP">280</Res>
+               </Reqs>
+               <CU>1</CU>
+               <CP>2</CP>
+               <Upgtime>0:35:00</Upgtime>
+               <Prod>22</Prod>
+          </Lvl>
+          <Lvl value="5">
+               <Reqs>
+                    <Res type="WOOD">310</Res>
+                    <Res type="CLAY">780</Res>
+                    <Res type="Iron">390</Res>
+                    <Res type="CROP">465</Res>
+               </Reqs>
+               <CU>1</CU>
+               <CP>2</CP>
+               <Upgtime>0:59:20</Upgtime>
+               <Prod>33</Prod>
+          </Lvl>
+          <Lvl value="6">
+               <Reqs>
+                    <Res type="WOOD">520</Res>
+                    <Res type="CLAY">1300</Res>
+                    <Res type="Iron">650</Res>
+                    <Res type="CROP">780</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>3</CP>
+               <Upgtime>1:38:10</Upgtime>
+               <Prod>50</Prod>
+          </Lvl>
+          <Lvl value="7">
+               <Reqs>
+                    <Res type="WOOD">870</Res>
+                    <Res type="CLAY">2170</Res>
+                    <Res type="Iron">1085</Res>
+                    <Res type="CROP">1300</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>4</CP>
+               <Upgtime>2:40:20</Upgtime>
+               <Prod>70</Prod>
+          </Lvl>
+          <Lvl value="8">
+               <Reqs>
+                    <Res type="WOOD">1450</Res>
+                    <Res type="CLAY">3625</Res>
+                    <Res type="Iron">1810</Res>
+                    <Res type="CROP">2175</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>4</CP>
+               <Upgtime>4:19:50</Upgtime>
+               <Prod>100</Prod>
+          </Lvl>
+          <Lvl value="9">
+               <Reqs>
+                    <Res type="WOOD">2420</Res>
+                    <Res type="CLAY">6050</Res>
+                    <Res type="Iron">3025</Res>
+                    <Res type="CROP">3630</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>5</CP>
+               <Upgtime>6:59:10</Upgtime>
+               <Prod>145</Prod>
+          </Lvl>
+          <Lvl value="10">
+               <Reqs>
+                    <Res type="WOOD">4040</Res>
+                    <Res type="CLAY">10105</Res>
+                    <Res type="Iron">5050</Res>
+                    <Res type="CROP">6060</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>6</CP>
+               <Upgtime>11:14:00</Upgtime>
+               <Prod>200</Prod>
+          </Lvl>
+          <Lvl value="11">
+               <Reqs>
+                    <Res type="WOOD">6750</Res>
+                    <Res type="CLAY">16870</Res>
+                    <Res type="Iron">8435</Res>
+                    <Res type="CROP">10125</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>7</CP>
+               <Upgtime>18:01:40</Upgtime>
+               <Prod>280</Prod>
+          </Lvl>
+          <Lvl value="12">
+               <Reqs>
+                    <Res type="WOOD">11270</Res>
+                    <Res type="CLAY">28175</Res>
+                    <Res type="Iron">14090</Res>
+                    <Res type="CROP">16905</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>9</CP>
+               <Upgtime>28:54:10</Upgtime>
+               <Prod>375</Prod>
+          </Lvl>
+          <Lvl value="13">
+               <Reqs>
+                    <Res type="WOOD">18820</Res>
+                    <Res type="CLAY">47055</Res>
+                    <Res type="Iron">23525</Res>
+                    <Res type="CROP">28230</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>11</CP>
+               <Upgtime>46:18:00</Upgtime>
+               <Prod>495</Prod>
+          </Lvl>
+          <Lvl value="14">
+               <Reqs>
+                    <Res type="WOOD">31430</Res>
+                    <Res type="CLAY">78580</Res>
+                    <Res type="Iron">39290</Res>
+                    <Res type="CROP">47150</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>13</CP>
+               <Upgtime>74:08:00</Upgtime>
+               <Prod>635</Prod>
+          </Lvl>
+          <Lvl value="15">
+               <Reqs>
+                    <Res type="WOOD">52490</Res>
+                    <Res type="CLAY">131230</Res>
+                    <Res type="Iron">65615</Res>
+                    <Res type="CROP">78740</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>15</CP>
+               <Upgtime>118:40:10</Upgtime>
+               <Prod>800</Prod>
+          </Lvl>
+          <Lvl value="16">
+               <Reqs>
+                    <Res type="WOOD">87660</Res>
+                    <Res type="CLAY">219155</Res>
+                    <Res type="Iron">109575</Res>
+                    <Res type="CROP">131490</Res>
+               </Reqs>
+               <CU>3</CU>
+               <CP>18</CP>
+               <Upgtime>189:55:30</Upgtime>
+               <Prod>1000</Prod>
+          </Lvl>
+          <Lvl value="17">
+               <Reqs>
+                    <Res type="WOOD">146395</Res>
+                    <Res type="CLAY">365985</Res>
+                    <Res type="Iron">182995</Res>
+                    <Res type="CROP">219590</Res>
+               </Reqs>
+               <CU>3</CU>
+               <CP>22</CP>
+               <Upgtime>303:56:10</Upgtime>
+               <Prod>1300</Prod>
+          </Lvl>
+          <Lvl value="18">
+               <Reqs>
+                    <Res type="WOOD">244480</Res>
+                    <Res type="CLAY">611195</Res>
+                    <Res type="Iron">305600</Res>
+                    <Res type="CROP">366715</Res>
+               </Reqs>
+               <CU>3</CU>
+               <CP>27</CP>
+               <Upgtime>486:21:20</Upgtime>
+               <Prod>1600</Prod>
+          </Lvl>
+          <Lvl value="19">
+               <Reqs>
+                    <Res type="WOOD">408280</Res>
+                    <Res type="CLAY">1020695</Res>
+                    <Res type="Iron">510350</Res>
+                    <Res type="CROP">612420</Res>
+               </Reqs>
+               <CU>3</CU>
+               <CP>32</CP>
+               <Upgtime>778:13:20</Upgtime>
+               <Prod>2000</Prod>
+          </Lvl>
+          <Lvl value="20">
+               <Reqs>
+                    <Res type="WOOD">681825</Res>
+                    <Res type="CLAY">1704565</Res>
+                    <Res type="Iron">852280</Res>
+                    <Res type="CROP">1022740</Res>
+               </Reqs>
+               <CU>3</CU>
+               <CP>38</CP>
+               <Upgtime>1245:12:50</Upgtime>
+               <Prod>2450</Prod>
+          </Lvl>
+     </Structure>
+     <Structure id="2" name="Claypit">
+          <Lvl value="1">
+               <Reqs>
+                    <Res type="WOOD">80</Res>
+                    <Res type="CLAY">40</Res>
+                    <Res type="Iron">80</Res>
+                    <Res type="CROP">50</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>1</CP>
+               <Upgtime>0:03:40</Upgtime>
+               <Prod>5</Prod>
+          </Lvl>
+          <Lvl value="2">
+               <Reqs>
+                    <Res type="WOOD">135</Res>
+                    <Res type="CLAY">65</Res>
+                    <Res type="Iron">135</Res>
+                    <Res type="CROP">85</Res>
+               </Reqs>
+               <CU>1</CU>
+               <CP>1</CP>
+               <Upgtime>0:09:10</Upgtime>
+               <Prod>9</Prod>
+          </Lvl>
+          <Lvl value="3">
+               <Reqs>
+                    <Res type="WOOD">225</Res>
+                    <Res type="CLAY">110</Res>
+                    <Res type="Iron">225</Res>
+                    <Res type="CROP">140</Res>
+               </Reqs>
+               <CU>1</CU>
+               <CP>2</CP>
+               <Upgtime>0:18:00</Upgtime>
+               <Prod>15</Prod>
+          </Lvl>
+          <Lvl value="4">
+               <Reqs>
+                    <Res type="WOOD">375</Res>
+                    <Res type="CLAY">185</Res>
+                    <Res type="Iron">375</Res>
+                    <Res type="CROP">235</Res>
+               </Reqs>
+               <CU>1</CU>
+               <CP>2</CP>
+               <Upgtime>0:32:10</Upgtime>
+               <Prod>22</Prod>
+          </Lvl>
+          <Lvl value="5">
+               <Reqs>
+                    <Res type="WOOD">620</Res>
+                    <Res type="CLAY">310</Res>
+                    <Res type="Iron">620</Res>
+                    <Res type="CROP">390</Res>
+               </Reqs>
+               <CU>1</CU>
+               <CP>2</CP>
+               <Upgtime>0:54:50</Upgtime>
+               <Prod>33</Prod>
+          </Lvl>
+          <Lvl value="6">
+               <Reqs>
+                    <Res type="WOOD">1040</Res>
+                    <Res type="CLAY">520</Res>
+                    <Res type="Iron">1040</Res>
+                    <Res type="CROP">650</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>3</CP>
+               <Upgtime>1:31:10</Upgtime>
+               <Prod>50</Prod>
+          </Lvl>
+          <Lvl value="7">
+               <Reqs>
+                    <Res type="WOOD">1735</Res>
+                    <Res type="CLAY">870</Res>
+                    <Res type="Iron">1735</Res>
+                    <Res type="CROP">1085</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>4</CP>
+               <Upgtime>2:29:10</Upgtime>
+               <Prod>70</Prod>
+          </Lvl>
+          <Lvl value="8">
+               <Reqs>
+                    <Res type="WOOD">2900</Res>
+                    <Res type="CLAY">1450</Res>
+                    <Res type="Iron">2900</Res>
+                    <Res type="CROP">1810</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>4</CP>
+               <Upgtime>4:02:00</Upgtime>
+               <Prod>100</Prod>
+          </Lvl>
+          <Lvl value="9">
+               <Reqs>
+                    <Res type="WOOD">4840</Res>
+                    <Res type="CLAY">2420</Res>
+                    <Res type="Iron">4840</Res>
+                    <Res type="CROP">3025</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>5</CP>
+               <Upgtime>6:30:30</Upgtime>
+               <Prod>145</Prod>
+          </Lvl>
+          <Lvl value="10">
+               <Reqs>
+                    <Res type="WOOD">8080</Res>
+                    <Res type="CLAY">4040</Res>
+                    <Res type="Iron">8080</Res>
+                    <Res type="CROP">5050</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>6</CP>
+               <Upgtime>10:28:10</Upgtime>
+               <Prod>200</Prod>
+          </Lvl>
+          <Lvl value="11">
+               <Reqs>
+                    <Res type="WOOD">13500</Res>
+                    <Res type="CLAY">6750</Res>
+                    <Res type="Iron">13500</Res>
+                    <Res type="CROP">8435</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>7</CP>
+               <Upgtime>16:48:30</Upgtime>
+               <Prod>280</Prod>
+          </Lvl>
+          <Lvl value="12">
+               <Reqs>
+                    <Res type="WOOD">22540</Res>
+                    <Res type="CLAY">11270</Res>
+                    <Res type="Iron">22540</Res>
+                    <Res type="CROP">14090</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>9</CP>
+               <Upgtime>26:56:50</Upgtime>
+               <Prod>375</Prod>
+          </Lvl>
+          <Lvl value="13">
+               <Reqs>
+                    <Res type="WOOD">37645</Res>
+                    <Res type="CLAY">18820</Res>
+                    <Res type="Iron">37645</Res>
+                    <Res type="CROP">23525</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>11</CP>
+               <Upgtime>43:10:20</Upgtime>
+               <Prod>495</Prod>
+          </Lvl>
+          <Lvl value="14">
+               <Reqs>
+                    <Res type="WOOD">62865</Res>
+                    <Res type="CLAY">31430</Res>
+                    <Res type="Iron">62865</Res>
+                    <Res type="CROP">39290</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>13</CP>
+               <Upgtime>69:07:50</Upgtime>
+               <Prod>635</Prod>
+          </Lvl>
+          <Lvl value="15">
+               <Reqs>
+                    <Res type="WOOD">104985</Res>
+                    <Res type="CLAY">52490</Res>
+                    <Res type="Iron">104985</Res>
+                    <Res type="CROP">65615</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>15</CP>
+               <Upgtime>110:39:50</Upgtime>
+               <Prod>800</Prod>
+          </Lvl>
+          <Lvl value="16">
+               <Reqs>
+                    <Res type="WOOD">175320</Res>
+                    <Res type="CLAY">87660</Res>
+                    <Res type="Iron">175320</Res>
+                    <Res type="CROP">109575</Res>
+               </Reqs>
+               <CU>3</CU>
+               <CP>18</CP>
+               <Upgtime>177:07:00</Upgtime>
+               <Prod>1000</Prod>
+          </Lvl>
+          <Lvl value="17">
+               <Reqs>
+                    <Res type="WOOD">292790</Res>
+                    <Res type="CLAY">146395</Res>
+                    <Res type="Iron">292790</Res>
+                    <Res type="CROP">182995</Res>
+               </Reqs>
+               <CU>3</CU>
+               <CP>22</CP>
+               <Upgtime>283:26:30</Upgtime>
+               <Prod>1300</Prod>
+          </Lvl>
+          <Lvl value="18">
+               <Reqs>
+                    <Res type="WOOD">488955</Res>
+                    <Res type="CLAY">244480</Res>
+                    <Res type="Iron">488955</Res>
+                    <Res type="CROP">305600</Res>
+               </Reqs>
+               <CU>3</CU>
+               <CP>27</CP>
+               <Upgtime>453:33:40</Upgtime>
+               <Prod>1600</Prod>
+          </Lvl>
+          <Lvl value="19">
+               <Reqs>
+                    <Res type="WOOD">816555</Res>
+                    <Res type="CLAY">408280</Res>
+                    <Res type="Iron">816555</Res>
+                    <Res type="CROP">510350</Res>
+               </Reqs>
+               <CU>3</CU>
+               <CP>32</CP>
+               <Upgtime>725:45:10</Upgtime>
+               <Prod>2000</Prod>
+          </Lvl>
+          <Lvl value="20">
+               <Reqs>
+                    <Res type="WOOD">1363650</Res>
+                    <Res type="CLAY">681825</Res>
+                    <Res type="Iron">1363650</Res>
+                    <Res type="CROP">852280</Res>
+               </Reqs>
+               <CU>3</CU>
+               <CP>38</CP>
+               <Upgtime>1161:15:40</Upgtime>
+               <Prod>2450</Prod>
+          </Lvl>
+          <Lvl value="21">
+               <Reqs>
+                    <Res type="WOOD">2277295</Res>
+                    <Res type="CLAY">1138650</Res>
+                    <Res type="Iron">2277295</Res>
+                    <Res type="CROP">1423310</Res>
+               </Reqs>
+               <CU>3</CU>
+               <CP>46</CP>
+               <Upgtime>1858:04:20</Upgtime>
+               <Prod>3050</Prod>
+          </Lvl>
+     </Structure>
+     <Structure id="3" name="Iron mine">
+          <Lvl value="1">
+               <Reqs>
+                    <Res type="WOOD">100</Res>
+                    <Res type="CLAY">80</Res>
+                    <Res type="Iron">30</Res>
+                    <Res type="CROP">60</Res>
+               </Reqs>
+               <CU>3</CU>
+               <CP>1</CP>
+               <Upgtime>0:07:30</Upgtime>
+               <Prod>5</Prod>
+          </Lvl>
+          <Lvl value="2">
+               <Reqs>
+                    <Res type="WOOD">165</Res>
+                    <Res type="CLAY">135</Res>
+                    <Res type="Iron">50</Res>
+                    <Res type="CROP">100</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>1</CP>
+               <Upgtime>0:15:20</Upgtime>
+               <Prod>9</Prod>
+          </Lvl>
+          <Lvl value="3">
+               <Reqs>
+                    <Res type="WOOD">280</Res>
+                    <Res type="CLAY">225</Res>
+                    <Res type="Iron">85</Res>
+                    <Res type="CROP">165</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>2</CP>
+               <Upgtime>0:27:50</Upgtime>
+               <Prod>15</Prod>
+          </Lvl>
+          <Lvl value="4">
+               <Reqs>
+                    <Res type="WOOD">465</Res>
+                    <Res type="CLAY">375</Res>
+                    <Res type="Iron">140</Res>
+                    <Res type="CROP">280</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>2</CP>
+               <Upgtime>0:48:00</Upgtime>
+               <Prod>22</Prod>
+          </Lvl>
+          <Lvl value="5">
+               <Reqs>
+                    <Res type="WOOD">780</Res>
+                    <Res type="CLAY">620</Res>
+                    <Res type="Iron">235</Res>
+                    <Res type="CROP">465</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>2</CP>
+               <Upgtime>1:20:00</Upgtime>
+               <Prod>33</Prod>
+          </Lvl>
+          <Lvl value="6">
+               <Reqs>
+                    <Res type="WOOD">1300</Res>
+                    <Res type="CLAY">1040</Res>
+                    <Res type="Iron">390</Res>
+                    <Res type="CROP">780</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>3</CP>
+               <Upgtime>2:11:20</Upgtime>
+               <Prod>50</Prod>
+          </Lvl>
+          <Lvl value="7">
+               <Reqs>
+                    <Res type="WOOD">2170</Res>
+                    <Res type="CLAY">1735</Res>
+                    <Res type="Iron">650</Res>
+                    <Res type="CROP">1300</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>4</CP>
+               <Upgtime>3:33:30</Upgtime>
+               <Prod>70</Prod>
+          </Lvl>
+          <Lvl value="8">
+               <Reqs>
+                    <Res type="WOOD">3625</Res>
+                    <Res type="CLAY">2900</Res>
+                    <Res type="Iron">1085</Res>
+                    <Res type="CROP">2175</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>4</CP>
+               <Upgtime>5:44:50</Upgtime>
+               <Prod>100</Prod>
+          </Lvl>
+          <Lvl value="9">
+               <Reqs>
+                    <Res type="WOOD">6050</Res>
+                    <Res type="CLAY">4840</Res>
+                    <Res type="Iron">1815</Res>
+                    <Res type="CROP">3630</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>5</CP>
+               <Upgtime>9:15:10</Upgtime>
+               <Prod>145</Prod>
+          </Lvl>
+          <Lvl value="10">
+               <Reqs>
+                    <Res type="WOOD">10105</Res>
+                    <Res type="CLAY">8080</Res>
+                    <Res type="Iron">3030</Res>
+                    <Res type="CROP">6060</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>6</CP>
+               <Upgtime>14:51:40</Upgtime>
+               <Prod>200</Prod>
+          </Lvl>
+          <Lvl value="11">
+               <Reqs>
+                    <Res type="WOOD">16870</Res>
+                    <Res type="CLAY">13500</Res>
+                    <Res type="Iron">5060</Res>
+                    <Res type="CROP">10125</Res>
+               </Reqs>
+               <CU>3</CU>
+               <CP>7</CP>
+               <Upgtime>23:50:00</Upgtime>
+               <Prod>280</Prod>
+          </Lvl>
+          <Lvl value="12">
+               <Reqs>
+                    <Res type="WOOD">28175</Res>
+                    <Res type="CLAY">22540</Res>
+                    <Res type="Iron">8455</Res>
+                    <Res type="CROP">16905</Res>
+               </Reqs>
+               <CU>3</CU>
+               <CP>9</CP>
+               <Upgtime>38:11:10</Upgtime>
+               <Prod>375</Prod>
+          </Lvl>
+          <Lvl value="13">
+               <Reqs>
+                    <Res type="WOOD">47055</Res>
+                    <Res type="CLAY">37645</Res>
+                    <Res type="Iron">14115</Res>
+                    <Res type="CROP">28230</Res>
+               </Reqs>
+               <CU>3</CU>
+               <CP>11</CP>
+               <Upgtime>61:09:20</Upgtime>
+               <Prod>495</Prod>
+          </Lvl>
+          <Lvl value="14">
+               <Reqs>
+                    <Res type="WOOD">78580</Res>
+                    <Res type="CLAY">62865</Res>
+                    <Res type="Iron">23575</Res>
+                    <Res type="CROP">47150</Res>
+               </Reqs>
+               <CU>3</CU>
+               <CP>13</CP>
+               <Upgtime>97:54:10</Upgtime>
+               <Prod>635</Prod>
+          </Lvl>
+          <Lvl value="15">
+               <Reqs>
+                    <Res type="WOOD">131230</Res>
+                    <Res type="CLAY">104985</Res>
+                    <Res type="Iron">39370</Res>
+                    <Res type="CROP">78740</Res>
+               </Reqs>
+               <CU>3</CU>
+               <CP>15</CP>
+               <Upgtime>156:42:00</Upgtime>
+               <Prod>800</Prod>
+          </Lvl>
+          <Lvl value="16">
+               <Reqs>
+                    <Res type="WOOD">219155</Res>
+                    <Res type="CLAY">175320</Res>
+                    <Res type="Iron">65745</Res>
+                    <Res type="CROP">131490</Res>
+               </Reqs>
+               <CU>3</CU>
+               <CP>18</CP>
+               <Upgtime>250:46:30</Upgtime>
+               <Prod>1000</Prod>
+          </Lvl>
+          <Lvl value="17">
+               <Reqs>
+                    <Res type="WOOD">365985</Res>
+                    <Res type="CLAY">292790</Res>
+                    <Res type="Iron">109795</Res>
+                    <Res type="CROP">219590</Res>
+               </Reqs>
+               <CU>3</CU>
+               <CP>22</CP>
+               <Upgtime>401:17:40</Upgtime>
+               <Prod>1300</Prod>
+          </Lvl>
+          <Lvl value="18">
+               <Reqs>
+                    <Res type="WOOD">611195</Res>
+                    <Res type="CLAY">488955</Res>
+                    <Res type="Iron">183360</Res>
+                    <Res type="CROP">366715</Res>
+               </Reqs>
+               <CU>3</CU>
+               <CP>27</CP>
+               <Upgtime>642:07:40</Upgtime>
+               <Prod>1600</Prod>
+          </Lvl>
+          <Lvl value="19">
+               <Reqs>
+                    <Res type="WOOD">1020695</Res>
+                    <Res type="CLAY">816555</Res>
+                    <Res type="Iron">306210</Res>
+                    <Res type="CROP">612420</Res>
+               </Reqs>
+               <CU>3</CU>
+               <CP>32</CP>
+               <Upgtime>1027:27:30</Upgtime>
+               <Prod>2000</Prod>
+          </Lvl>
+          <Lvl value="20">
+               <Reqs>
+                    <Res type="WOOD">1704565</Res>
+                    <Res type="CLAY">1363650</Res>
+                    <Res type="Iron">511370</Res>
+                    <Res type="CROP">1022740</Res>
+               </Reqs>
+               <CU>3</CU>
+               <CP>38</CP>
+               <Upgtime>1643:59:30</Upgtime>
+               <Prod>2450</Prod>
+          </Lvl>
+     </Structure>
+     <Structure id="4" name="Cropland">
+          <Lvl value="1">
+               <Reqs>
+                    <Res type="WOOD">70</Res>
+                    <Res type="CLAY">90</Res>
+                    <Res type="Iron">70</Res>
+                    <Res type="CROP">20</Res>
+               </Reqs>
+               <CU>0</CU>
+               <CP>1</CP>
+               <Upgtime>0:02:30</Upgtime>
+               <Prod>5</Prod>
+          </Lvl>
+          <Lvl value="2">
+               <Reqs>
+                    <Res type="WOOD">115</Res>
+                    <Res type="CLAY">150</Res>
+                    <Res type="Iron">115</Res>
+                    <Res type="CROP">35</Res>
+               </Reqs>
+               <CU>0</CU>
+               <CP>1</CP>
+               <Upgtime>0:07:20</Upgtime>
+               <Prod>9</Prod>
+          </Lvl>
+          <Lvl value="3">
+               <Reqs>
+                    <Res type="WOOD">195</Res>
+                    <Res type="CLAY">250</Res>
+                    <Res type="Iron">195</Res>
+                    <Res type="CROP">55</Res>
+               </Reqs>
+               <CU>0</CU>
+               <CP>2</CP>
+               <Upgtime>0:15:00</Upgtime>
+               <Prod>15</Prod>
+          </Lvl>
+          <Lvl value="4">
+               <Reqs>
+                    <Res type="WOOD">325</Res>
+                    <Res type="CLAY">420</Res>
+                    <Res type="Iron">325</Res>
+                    <Res type="CROP">95</Res>
+               </Reqs>
+               <CU>0</CU>
+               <CP>2</CP>
+               <Upgtime>0:27:30</Upgtime>
+               <Prod>22</Prod>
+          </Lvl>
+          <Lvl value="5">
+               <Reqs>
+                    <Res type="WOOD">545</Res>
+                    <Res type="CLAY">700</Res>
+                    <Res type="Iron">545</Res>
+                    <Res type="CROP">155</Res>
+               </Reqs>
+               <CU>0</CU>
+               <CP>2</CP>
+               <Upgtime>0:47:10</Upgtime>
+               <Prod>33</Prod>
+          </Lvl>
+          <Lvl value="6">
+               <Reqs>
+                    <Res type="WOOD">910</Res>
+                    <Res type="CLAY">1170</Res>
+                    <Res type="Iron">910</Res>
+                    <Res type="CROP">260</Res>
+               </Reqs>
+               <CU>1</CU>
+               <CP>3</CP>
+               <Upgtime>1:18:50</Upgtime>
+               <Prod>50</Prod>
+          </Lvl>
+          <Lvl value="7">
+               <Reqs>
+                    <Res type="WOOD">1520</Res>
+                    <Res type="CLAY">1950</Res>
+                    <Res type="Iron">1520</Res>
+                    <Res type="CROP">435</Res>
+               </Reqs>
+               <CU>1</CU>
+               <CP>4</CP>
+               <Upgtime>2:09:40</Upgtime>
+               <Prod>70</Prod>
+          </Lvl>
+          <Lvl value="8">
+               <Reqs>
+                    <Res type="WOOD">2535</Res>
+                    <Res type="CLAY">3260</Res>
+                    <Res type="Iron">2535</Res>
+                    <Res type="CROP">725</Res>
+               </Reqs>
+               <CU>1</CU>
+               <CP>4</CP>
+               <Upgtime>3:30:40</Upgtime>
+               <Prod>100</Prod>
+          </Lvl>
+          <Lvl value="9">
+               <Reqs>
+                    <Res type="WOOD">4235</Res>
+                    <Res type="CLAY">5445</Res>
+                    <Res type="Iron">4235</Res>
+                    <Res type="CROP">1210</Res>
+               </Reqs>
+               <CU>1</CU>
+               <CP>5</CP>
+               <Upgtime>5:40:30</Upgtime>
+               <Prod>145</Prod>
+          </Lvl>
+          <Lvl value="10">
+               <Reqs>
+                    <Res type="WOOD">7070</Res>
+                    <Res type="CLAY">9095</Res>
+                    <Res type="Iron">7070</Res>
+                    <Res type="CROP">2020</Res>
+               </Reqs>
+               <CU>1</CU>
+               <CP>6</CP>
+               <Upgtime>9:08:00</Upgtime>
+               <Prod>200</Prod>
+          </Lvl>
+          <Lvl value="11">
+               <Reqs>
+                    <Res type="WOOD">11810</Res>
+                    <Res type="CLAY">15185</Res>
+                    <Res type="Iron">11810</Res>
+                    <Res type="CROP">3375</Res>
+               </Reqs>
+               <CU>1</CU>
+               <CP>7</CP>
+               <Upgtime>14:40:10</Upgtime>
+               <Prod>280</Prod>
+          </Lvl>
+          <Lvl value="12">
+               <Reqs>
+                    <Res type="WOOD">19725</Res>
+                    <Res type="CLAY">25360</Res>
+                    <Res type="Iron">19725</Res>
+                    <Res type="CROP">5635</Res>
+               </Reqs>
+               <CU>1</CU>
+               <CP>9</CP>
+               <Upgtime>23:31:40</Upgtime>
+               <Prod>375</Prod>
+          </Lvl>
+          <Lvl value="13">
+               <Reqs>
+                    <Res type="WOOD">32940</Res>
+                    <Res type="CLAY">42350</Res>
+                    <Res type="Iron">32940</Res>
+                    <Res type="CROP">9410</Res>
+               </Reqs>
+               <CU>1</CU>
+               <CP>11</CP>
+               <Upgtime>37:41:50</Upgtime>
+               <Prod>495</Prod>
+          </Lvl>
+          <Lvl value="14">
+               <Reqs>
+                    <Res type="WOOD">55005</Res>
+                    <Res type="CLAY">70720</Res>
+                    <Res type="Iron">55005</Res>
+                    <Res type="CROP">15715</Res>
+               </Reqs>
+               <CU>1</CU>
+               <CP>13</CP>
+               <Upgtime>60:22:20</Upgtime>
+               <Prod>635</Prod>
+          </Lvl>
+          <Lvl value="15">
+               <Reqs>
+                    <Res type="WOOD">91860</Res>
+                    <Res type="CLAY">118105</Res>
+                    <Res type="Iron">91860</Res>
+                    <Res type="CROP">26245</Res>
+               </Reqs>
+               <CU>1</CU>
+               <CP>15</CP>
+               <Upgtime>96:39:10</Upgtime>
+               <Prod>800</Prod>
+          </Lvl>
+          <Lvl value="16">
+               <Reqs>
+                    <Res type="WOOD">153405</Res>
+                    <Res type="CLAY">197240</Res>
+                    <Res type="Iron">153405</Res>
+                    <Res type="CROP">43830</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>18</CP>
+               <Upgtime>154:41:50</Upgtime>
+               <Prod>1000</Prod>
+          </Lvl>
+          <Lvl value="17">
+               <Reqs>
+                    <Res type="WOOD">256190</Res>
+                    <Res type="CLAY">329385</Res>
+                    <Res type="Iron">256190</Res>
+                    <Res type="CROP">73195</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>22</CP>
+               <Upgtime>247:34:20</Upgtime>
+               <Prod>1300</Prod>
+          </Lvl>
+          <Lvl value="18">
+               <Reqs>
+                    <Res type="WOOD">427835</Res>
+                    <Res type="CLAY">550075</Res>
+                    <Res type="Iron">427835</Res>
+                    <Res type="CROP">122240</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>27</CP>
+               <Upgtime>396:10:10</Upgtime>
+               <Prod>1600</Prod>
+          </Lvl>
+          <Lvl value="19">
+               <Reqs>
+                    <Res type="WOOD">714485</Res>
+                    <Res type="CLAY">918625</Res>
+                    <Res type="Iron">714485</Res>
+                    <Res type="CROP">204140</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>32</CP>
+               <Upgtime>633:55:40</Upgtime>
+               <Prod>2000</Prod>
+          </Lvl>
+          <Lvl value="20">
+               <Reqs>
+                    <Res type="WOOD">1193195</Res>
+                    <Res type="CLAY">1534105</Res>
+                    <Res type="Iron">1193195</Res>
+                    <Res type="CROP">340915</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>38</CP>
+               <Upgtime>1014:20:30</Upgtime>
+               <Prod>2450</Prod>
+          </Lvl>
+          <Lvl value="21">
+               <Reqs>
+                    <Res type="WOOD">1992635</Res>
+                    <Res type="CLAY">2561960</Res>
+                    <Res type="Iron">1992635</Res>
+                    <Res type="CROP">569325</Res>
+               </Reqs>
+               <CU>2</CU>
+               <CP>46</CP>
+               <Upgtime>1623:00:10</Upgtime>
+               <Prod>3050</Prod>
+          </Lvl>
+     </Structure>
+     <Structure id="5" name="Sawmill">
+          <Lvl value="1">
+               <Reqs>
+                    <Res type="WOOD">520</Res>
+                    <Res type="CLAY">380</Res>
+                    <Res type="Iron">290</Res>
+                    <Res type="CROP">90</Res>
+                    <Strucure id="1" level="10" />
+                    <Structure id="15" level="5" />
+               </Reqs>
+               <CU>4</CU>
+               <CP>1</CP>
+               <Upgtime>0:50:00</Upgtime>
+               <ProdInc>5</ProdInc>
+          </Lvl>
+          <Lvl value="2">
+               <Reqs>
+                    <Res type="WOOD">935</Res>
+                    <Res type="CLAY">685</Res>
+                    <Res type="Iron">520</Res>
+                    <Res type="CROP">160</Res>
+                    <Strucure id="1" level="10" />
+                    <Structure id="15" level="5" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>1</CP>
+               <Upgtime>1:35:00</Upgtime>
+               <ProdInc>10</ProdInc>
+          </Lvl>
+          <Lvl value="3">
+               <Reqs>
+                    <Res type="WOOD">1685</Res>
+                    <Res type="CLAY">1230</Res>
+                    <Res type="Iron">940</Res>
+                    <Res type="CROP">290</Res>
+                    <Strucure id="1" level="10" />
+                    <Structure id="15" level="5" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>2</CP>
+               <Upgtime>2:42:30</Upgtime>
+               <ProdInc>15</ProdInc>
+          </Lvl>
+          <Lvl value="4">
+               <Reqs>
+                    <Res type="WOOD">3035</Res>
+                    <Res type="CLAY">2215</Res>
+                    <Res type="Iron">1690</Res>
+                    <Res type="CROP">525</Res>
+                    <Strucure id="1" level="10" />
+                    <Structure id="15" level="5" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>2</CP>
+               <Upgtime>4:23:50</Upgtime>
+               <ProdInc>20</ProdInc>
+          </Lvl>
+          <Lvl value="5">
+               <Reqs>
+                    <Res type="WOOD">5460</Res>
+                    <Res type="CLAY">3990</Res>
+                    <Res type="Iron">3045</Res>
+                    <Res type="CROP">945</Res>
+                    <Strucure id="1" level="10" />
+                    <Structure id="15" level="5" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>2</CP>
+               <Upgtime>6:55:40</Upgtime>
+               <ProdInc>25</ProdInc>
+          </Lvl>
+     </Structure>
+     <Structure id="6" name="Brickyard">
+          <Lvl value="1">
+               <Reqs>
+                    <Res type="WOOD">440</Res>
+                    <Res type="CLAY">480</Res>
+                    <Res type="Iron">320</Res>
+                    <Res type="CROP">50</Res>
+                    <Strucure id="2" level="10" />
+                    <Structure id="15" level="5" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>1</CP>
+               <Upgtime>0:47:20</Upgtime>
+               <ProdInc>5</ProdInc>
+          </Lvl>
+          <Lvl value="2">
+               <Reqs>
+                    <Res type="WOOD">790</Res>
+                    <Res type="CLAY">865</Res>
+                    <Res type="Iron">575</Res>
+                    <Res type="CROP">90</Res>
+                    <Strucure id="2" level="10" />
+                    <Structure id="15" level="5" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>1</CP>
+               <Upgtime>1:31:00</Upgtime>
+               <ProdInc>10</ProdInc>
+          </Lvl>
+          <Lvl value="3">
+               <Reqs>
+                    <Res type="WOOD">1425</Res>
+                    <Res type="CLAY">1555</Res>
+                    <Res type="Iron">1035</Res>
+                    <Res type="CROP">160</Res>
+                    <Strucure id="2" level="10" />
+                    <Structure id="15" level="5" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>2</CP>
+               <Upgtime>2:36:30</Upgtime>
+               <ProdInc>15</ProdInc>
+          </Lvl>
+          <Lvl value="4">
+               <Reqs>
+                    <Res type="WOOD">2565</Res>
+                    <Res type="CLAY">2800</Res>
+                    <Res type="Iron">1865</Res>
+                    <Res type="CROP">290</Res>
+                    <Strucure id="2" level="10" />
+                    <Structure id="15" level="5" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>2</CP>
+               <Upgtime>4:14:50</Upgtime>
+               <ProdInc>20</ProdInc>
+          </Lvl>
+          <Lvl value="5">
+               <Reqs>
+                    <Res type="WOOD">4620</Res>
+                    <Res type="CLAY">5040</Res>
+                    <Res type="Iron">3360</Res>
+                    <Res type="CROP">525</Res>
+                    <Strucure id="2" level="10" />
+                    <Structure id="15" level="5" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>2</CP>
+               <Upgtime>6:42:10</Upgtime>
+               <ProdInc>25</ProdInc>
+          </Lvl>
+     </Structure>
+     <Structure id="7" name="Iron Foundry">
+          <Lvl value="1">
+               <Reqs>
+                    <Res type="WOOD">200</Res>
+                    <Res type="CLAY">450</Res>
+                    <Res type="Iron">510</Res>
+                    <Res type="CROP">120</Res>
+                    <Strucure id="3" level="10" />
+                    <Structure id="15" level="5" />
+               </Reqs>
+               <CU>6</CU>
+               <CP>1</CP>
+               <Upgtime>1:08:00</Upgtime>
+               <ProdInc>5</ProdInc>
+          </Lvl>
+          <Lvl value="2">
+               <Reqs>
+                    <Res type="WOOD">360</Res>
+                    <Res type="CLAY">810</Res>
+                    <Res type="Iron">920</Res>
+                    <Res type="CROP">215</Res>
+                    <Strucure id="3" level="10" />
+                    <Structure id="15" level="5" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>1</CP>
+               <Upgtime>2:02:00</Upgtime>
+               <ProdInc>10</ProdInc>
+          </Lvl>
+          <Lvl value="3">
+               <Reqs>
+                    <Res type="WOOD">650</Res>
+                    <Res type="CLAY">1460</Res>
+                    <Res type="Iron">1650</Res>
+                    <Res type="CROP">390</Res>
+                    <Strucure id="3" level="10" />
+                    <Structure id="15" level="5" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>2</CP>
+               <Upgtime>3:23:00</Upgtime>
+               <ProdInc>15</ProdInc>
+          </Lvl>
+          <Lvl value="4">
+               <Reqs>
+                    <Res type="WOOD">1165</Res>
+                    <Res type="CLAY">2625</Res>
+                    <Res type="Iron">2975</Res>
+                    <Res type="CROP">700</Res>
+                    <Strucure id="3" level="10" />
+                    <Structure id="15" level="5" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>2</CP>
+               <Upgtime>5:24:30</Upgtime>
+               <ProdInc>20</ProdInc>
+          </Lvl>
+          <Lvl value="5">
+               <Reqs>
+                    <Res type="WOOD">2100</Res>
+                    <Res type="CLAY">4725</Res>
+                    <Res type="Iron">5355</Res>
+                    <Res type="CROP">1260</Res>
+                    <Strucure id="3" level="10" />
+                    <Structure id="15" level="5" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>2</CP>
+               <Upgtime>8:26:50</Upgtime>
+               <ProdInc>25</ProdInc>
+          </Lvl>
+     </Structure>
+     <Structure id="8" name="Grain Mill">
+          <Lvl value="1">
+               <Reqs>
+                    <Res type="WOOD">500</Res>
+                    <Res type="CLAY">440</Res>
+                    <Res type="Iron">380</Res>
+                    <Res type="CROP">1240</Res>
+                    <Strucure id="4" level="5" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>1</CP>
+               <Upgtime>0:30:40</Upgtime>
+               <ProdInc>5</ProdInc>
+          </Lvl>
+          <Lvl value="2">
+               <Reqs>
+                    <Res type="WOOD">900</Res>
+                    <Res type="CLAY">790</Res>
+                    <Res type="Iron">685</Res>
+                    <Res type="CROP">2230</Res>
+                    <Strucure id="4" level="5" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>1</CP>
+               <Upgtime>1:06:00</Upgtime>
+               <ProdInc>10</ProdInc>
+          </Lvl>
+          <Lvl value="3">
+               <Reqs>
+                    <Res type="WOOD">1620</Res>
+                    <Res type="CLAY">1425</Res>
+                    <Res type="Iron">1230</Res>
+                    <Res type="CROP">4020</Res>
+                    <Strucure id="4" level="5" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>2</CP>
+               <Upgtime>1:59:00</Upgtime>
+               <ProdInc>15</ProdInc>
+          </Lvl>
+          <Lvl value="4">
+               <Reqs>
+                    <Res type="WOOD">2915</Res>
+                    <Res type="CLAY">2565</Res>
+                    <Res type="Iron">2215</Res>
+                    <Res type="CROP">7230</Res>
+                    <Strucure id="4" level="5" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>2</CP>
+               <Upgtime>3:18:30</Upgtime>
+               <ProdInc>20</ProdInc>
+          </Lvl>
+          <Lvl value="5">
+               <Reqs>
+                    <Res type="WOOD">5250</Res>
+                    <Res type="CLAY">4620</Res>
+                    <Res type="Iron">3990</Res>
+                    <Res type="CROP">13015</Res>
+                    <Strucure id="4" level="5" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>2</CP>
+               <Upgtime>5:17:50</Upgtime>
+               <ProdInc>25</ProdInc>
+          </Lvl>
+     </Structure>
+     <Structure id="9" name="Bakery">
+          <Lvl value="1">
+               <Reqs>
+                    <Res type="WOOD">1200</Res>
+                    <Res type="CLAY">1480</Res>
+                    <Res type="Iron">870</Res>
+                    <Res type="CROP">1600</Res>
+                    <Strucure id="4" level="10" />
+                    <Structure id="8" level="5" />
+                    <Structure id="15" level="5" />
+               </Reqs>
+               <CU>4</CU>
+               <CP>1</CP>
+               <Upgtime>1:01:20</Upgtime>
+               <ProdInc>5</ProdInc>
+          </Lvl>
+          <Lvl value="2">
+               <Reqs>
+                    <Res type="WOOD">2160</Res>
+                    <Res type="CLAY">2665</Res>
+                    <Res type="Iron">1565</Res>
+                    <Res type="CROP">2880</Res>
+                    <Strucure id="4" level="10" />
+                    <Structure id="8" level="5" />
+                    <Structure id="15" level="5" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>1</CP>
+               <Upgtime>1:52:00</Upgtime>
+               <ProdInc>10</ProdInc>
+          </Lvl>
+          <Lvl value="3">
+               <Reqs>
+                    <Res type="WOOD">3890</Res>
+                    <Res type="CLAY">4795</Res>
+                    <Res type="Iron">2820</Res>
+                    <Res type="CROP">5185</Res>
+                    <Strucure id="4" level="10" />
+                    <Structure id="8" level="5" />
+                    <Structure id="15" level="5" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>2</CP>
+               <Upgtime>3:08:00</Upgtime>
+               <ProdInc>15</ProdInc>
+          </Lvl>
+          <Lvl value="4">
+               <Reqs>
+                    <Res type="WOOD">7000</Res>
+                    <Res type="CLAY">8630</Res>
+                    <Res type="Iron">5075</Res>
+                    <Res type="CROP">9330</Res>
+                    <Strucure id="4" level="10" />
+                    <Structure id="8" level="5" />
+                    <Structure id="15" level="5" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>2</CP>
+               <Upgtime>5:02:00</Upgtime>
+               <ProdInc>20</ProdInc>
+          </Lvl>
+          <Lvl value="5">
+               <Reqs>
+                    <Res type="WOOD">12595</Res>
+                    <Res type="CLAY">15535</Res>
+                    <Res type="Iron">9135</Res>
+                    <Res type="CROP">16795</Res>
+                    <Strucure id="4" level="10" />
+                    <Structure id="8" level="5" />
+                    <Structure id="15" level="5" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>2</CP>
+               <Upgtime>7:53:00</Upgtime>
+               <ProdInc>25</ProdInc>
+          </Lvl>
+     </Structure>
+     <Structure id="10" name="Warehouse">
+          <Lvl value="1">
+               <Reqs>
+                    <Res type="WOOD">130</Res>
+                    <Res type="CLAY">160</Res>
+                    <Res type="Iron">90</Res>
+                    <Res type="CROP">40</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>1</CU>
+               <CP>1</CP>
+               <Upgtime>0:33:20</Upgtime>
+               <ProdInc>1200</ProdInc>
+          </Lvl>
+          <Lvl value="2">
+               <Reqs>
+                    <Res type="WOOD">165</Res>
+                    <Res type="CLAY">205</Res>
+                    <Res type="Iron">115</Res>
+                    <Res type="CROP">50</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>1</CU>
+               <CP>1</CP>
+               <Upgtime>0:43:40</Upgtime>
+               <ProdInc>1700</ProdInc>
+          </Lvl>
+          <Lvl value="3">
+               <Reqs>
+                    <Res type="WOOD">215</Res>
+                    <Res type="CLAY">260</Res>
+                    <Res type="Iron">145</Res>
+                    <Res type="CROP">65</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>1</CU>
+               <CP>2</CP>
+               <Upgtime>0:55:40</Upgtime>
+               <ProdInc>2300</ProdInc>
+          </Lvl>
+          <Lvl value="4">
+               <Reqs>
+                    <Res type="WOOD">275</Res>
+                    <Res type="CLAY">335</Res>
+                    <Res type="Iron">190</Res>
+                    <Res type="CROP">85</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>1</CU>
+               <CP>2</CP>
+               <Upgtime>1:09:30</Upgtime>
+               <ProdInc>3100</ProdInc>
+          </Lvl>
+          <Lvl value="5">
+               <Reqs>
+                    <Res type="WOOD">350</Res>
+                    <Res type="CLAY">430</Res>
+                    <Res type="Iron">240</Res>
+                    <Res type="CROP">105</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>1</CU>
+               <CP>2</CP>
+               <Upgtime>1:25:40</Upgtime>
+               <ProdInc>4000</ProdInc>
+          </Lvl>
+          <Lvl value="6">
+               <Reqs>
+                    <Res type="WOOD">445</Res>
+                    <Res type="CLAY">550</Res>
+                    <Res type="Iron">310</Res>
+                    <Res type="CROP">135</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>1</CU>
+               <CP>3</CP>
+               <Upgtime>1:44:20</Upgtime>
+               <ProdInc>5000</ProdInc>
+          </Lvl>
+          <Lvl value="7">
+               <Reqs>
+                    <Res type="WOOD">570</Res>
+                    <Res type="CLAY">705</Res>
+                    <Res type="Iron">395</Res>
+                    <Res type="CROP">175</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>1</CU>
+               <CP>4</CP>
+               <Upgtime>2:06:10</Upgtime>
+               <ProdInc>6300</ProdInc>
+          </Lvl>
+          <Lvl value="8">
+               <Reqs>
+                    <Res type="WOOD">730</Res>
+                    <Res type="CLAY">900</Res>
+                    <Res type="Iron">505</Res>
+                    <Res type="CROP">225</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>1</CU>
+               <CP>4</CP>
+               <Upgtime>2:31:20</Upgtime>
+               <ProdInc>7800</ProdInc>
+          </Lvl>
+          <Lvl value="9">
+               <Reqs>
+                    <Res type="WOOD">935</Res>
+                    <Res type="CLAY">1155</Res>
+                    <Res type="Iron">650</Res>
+                    <Res type="CROP">290</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>1</CU>
+               <CP>5</CP>
+               <Upgtime>3:00:30</Upgtime>
+               <ProdInc>9600</ProdInc>
+          </Lvl>
+          <Lvl value="10">
+               <Reqs>
+                    <Res type="WOOD">1200</Res>
+                    <Res type="CLAY">1475</Res>
+                    <Res type="Iron">830</Res>
+                    <Res type="CROP">370</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>1</CU>
+               <CP>6</CP>
+               <Upgtime>3:34:20</Upgtime>
+               <ProdInc>11800</ProdInc>
+          </Lvl>
+          <Lvl value="11">
+               <Reqs>
+                    <Res type="WOOD">1535</Res>
+                    <Res type="CLAY">1890</Res>
+                    <Res type="Iron">1065</Res>
+                    <Res type="CROP">470</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>7</CP>
+               <Upgtime>4:13:40</Upgtime>
+               <ProdInc>14400</ProdInc>
+          </Lvl>
+          <Lvl value="12">
+               <Reqs>
+                    <Res type="WOOD">1965</Res>
+                    <Res type="CLAY">2420</Res>
+                    <Res type="Iron">1360</Res>
+                    <Res type="CROP">605</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>9</CP>
+               <Upgtime>4:59:10</Upgtime>
+               <ProdInc>17600</ProdInc>
+          </Lvl>
+          <Lvl value="13">
+               <Reqs>
+                    <Res type="WOOD">2515</Res>
+                    <Res type="CLAY">3095</Res>
+                    <Res type="Iron">1740</Res>
+                    <Res type="CROP">775</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>11</CP>
+               <Upgtime>5:52:10</Upgtime>
+               <ProdInc>21400</ProdInc>
+          </Lvl>
+          <Lvl value="14">
+               <Reqs>
+                    <Res type="WOOD">3220</Res>
+                    <Res type="CLAY">3960</Res>
+                    <Res type="Iron">2230</Res>
+                    <Res type="CROP">990</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>13</CP>
+               <Upgtime>6:53:30</Upgtime>
+               <ProdInc>25900</ProdInc>
+          </Lvl>
+          <Lvl value="15">
+               <Reqs>
+                    <Res type="WOOD">4120</Res>
+                    <Res type="CLAY">5070</Res>
+                    <Res type="Iron">2850</Res>
+                    <Res type="CROP">1270</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>15</CP>
+               <Upgtime>8:04:40</Upgtime>
+               <ProdInc>31300</ProdInc>
+          </Lvl>
+          <Lvl value="16">
+               <Reqs>
+                    <Res type="WOOD">5275</Res>
+                    <Res type="CLAY">6490</Res>
+                    <Res type="Iron">3650</Res>
+                    <Res type="CROP">1625</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>18</CP>
+               <Upgtime>9:27:10</Upgtime>
+               <ProdInc>37900</ProdInc>
+          </Lvl>
+          <Lvl value="17">
+               <Reqs>
+                    <Res type="WOOD">6750</Res>
+                    <Res type="CLAY">8310</Res>
+                    <Res type="Iron">4675</Res>
+                    <Res type="CROP">2075</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>22</CP>
+               <Upgtime>11:02:50</Upgtime>
+               <ProdInc>45700</ProdInc>
+          </Lvl>
+          <Lvl value="18">
+               <Reqs>
+                    <Res type="WOOD">8640</Res>
+                    <Res type="CLAY">10635</Res>
+                    <Res type="Iron">5980</Res>
+                    <Res type="CROP">2660</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>27</CP>
+               <Upgtime>12:54:00</Upgtime>
+               <ProdInc>55100</ProdInc>
+          </Lvl>
+          <Lvl value="19">
+               <Reqs>
+                    <Res type="WOOD">11060</Res>
+                    <Res type="CLAY">13610</Res>
+                    <Res type="Iron">7655</Res>
+                    <Res type="CROP">3405</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>32</CP>
+               <Upgtime>15:02:50</Upgtime>
+               <ProdInc>66400</ProdInc>
+          </Lvl>
+          <Lvl value="20">
+               <Reqs>
+                    <Res type="WOOD">14155</Res>
+                    <Res type="CLAY">17420</Res>
+                    <Res type="Iron">9800</Res>
+                    <Res type="CROP">4355</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>38</CP>
+               <Upgtime>17:32:10</Upgtime>
+               <ProdInc>80000</ProdInc>
+          </Lvl>
+     </Structure>
+     <Structure id="11" name="Granary">
+          <Lvl value="1">
+               <Reqs>
+                    <Res type="WOOD">80</Res>
+                    <Res type="CLAY">100</Res>
+                    <Res type="Iron">70</Res>
+                    <Res type="CROP">20</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>1</CU>
+               <CP>1</CP>
+               <Upgtime>0:26:40</Upgtime>
+               <ProdInc>1200</ProdInc>
+          </Lvl>
+          <Lvl value="2">
+               <Reqs>
+                    <Res type="WOOD">100</Res>
+                    <Res type="CLAY">130</Res>
+                    <Res type="Iron">90</Res>
+                    <Res type="CROP">25</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>1</CU>
+               <CP>1</CP>
+               <Upgtime>0:36:00</Upgtime>
+               <ProdInc>1700</ProdInc>
+          </Lvl>
+          <Lvl value="3">
+               <Reqs>
+                    <Res type="WOOD">130</Res>
+                    <Res type="CLAY">165</Res>
+                    <Res type="Iron">115</Res>
+                    <Res type="CROP">35</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>1</CU>
+               <CP>2</CP>
+               <Upgtime>0:46:40</Upgtime>
+               <ProdInc>2300</ProdInc>
+          </Lvl>
+          <Lvl value="4">
+               <Reqs>
+                    <Res type="WOOD">170</Res>
+                    <Res type="CLAY">210</Res>
+                    <Res type="Iron">145</Res>
+                    <Res type="CROP">40</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>1</CU>
+               <CP>2</CP>
+               <Upgtime>0:59:10</Upgtime>
+               <ProdInc>3100</ProdInc>
+          </Lvl>
+          <Lvl value="5">
+               <Reqs>
+                    <Res type="WOOD">215</Res>
+                    <Res type="CLAY">270</Res>
+                    <Res type="Iron">190</Res>
+                    <Res type="CROP">55</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>1</CU>
+               <CP>2</CP>
+               <Upgtime>1:13:40</Upgtime>
+               <ProdInc>4000</ProdInc>
+          </Lvl>
+          <Lvl value="6">
+               <Reqs>
+                    <Res type="WOOD">275</Res>
+                    <Res type="CLAY">345</Res>
+                    <Res type="Iron">240</Res>
+                    <Res type="CROP">70</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>1</CU>
+               <CP>3</CP>
+               <Upgtime>1:30:20</Upgtime>
+               <ProdInc>5000</ProdInc>
+          </Lvl>
+          <Lvl value="7">
+               <Reqs>
+                    <Res type="WOOD">350</Res>
+                    <Res type="CLAY">440</Res>
+                    <Res type="Iron">310</Res>
+                    <Res type="CROP">90</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>1</CU>
+               <CP>4</CP>
+               <Upgtime>1:49:50</Upgtime>
+               <ProdInc>6300</ProdInc>
+          </Lvl>
+          <Lvl value="8">
+               <Reqs>
+                    <Res type="WOOD">450</Res>
+                    <Res type="CLAY">565</Res>
+                    <Res type="Iron">395</Res>
+                    <Res type="CROP">115</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>1</CU>
+               <CP>4</CP>
+               <Upgtime>2:12:30</Upgtime>
+               <ProdInc>7800</ProdInc>
+          </Lvl>
+          <Lvl value="9">
+               <Reqs>
+                    <Res type="WOOD">575</Res>
+                    <Res type="CLAY">720</Res>
+                    <Res type="Iron">505</Res>
+                    <Res type="CROP">145</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>1</CU>
+               <CP>5</CP>
+               <Upgtime>2:38:40</Upgtime>
+               <ProdInc>9600</ProdInc>
+          </Lvl>
+          <Lvl value="10">
+               <Reqs>
+                    <Res type="WOOD">740</Res>
+                    <Res type="CLAY">920</Res>
+                    <Res type="Iron">645</Res>
+                    <Res type="CROP">185</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>1</CU>
+               <CP>6</CP>
+               <Upgtime>3:09:00</Upgtime>
+               <ProdInc>11800</ProdInc>
+          </Lvl>
+          <Lvl value="11">
+               <Reqs>
+                    <Res type="WOOD">945</Res>
+                    <Res type="CLAY">1180</Res>
+                    <Res type="Iron">825</Res>
+                    <Res type="CROP">235</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>7</CP>
+               <Upgtime>3:44:10</Upgtime>
+               <ProdInc>14400</ProdInc>
+          </Lvl>
+          <Lvl value="12">
+               <Reqs>
+                    <Res type="WOOD">1210</Res>
+                    <Res type="CLAY">1510</Res>
+                    <Res type="Iron">1060</Res>
+                    <Res type="CROP">300</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>9</CP>
+               <Upgtime>4:25:10</Upgtime>
+               <ProdInc>17600</ProdInc>
+          </Lvl>
+          <Lvl value="13">
+               <Reqs>
+                    <Res type="WOOD">1545</Res>
+                    <Res type="CLAY">1935</Res>
+                    <Res type="Iron">1355</Res>
+                    <Res type="CROP">385</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>11</CP>
+               <Upgtime>5:12:30</Upgtime>
+               <ProdInc>21400</ProdInc>
+          </Lvl>
+          <Lvl value="14">
+               <Reqs>
+                    <Res type="WOOD">1980</Res>
+                    <Res type="CLAY">2475</Res>
+                    <Res type="Iron">1735</Res>
+                    <Res type="CROP">495</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>13</CP>
+               <Upgtime>6:07:30</Upgtime>
+               <ProdInc>25900</ProdInc>
+          </Lvl>
+          <Lvl value="15">
+               <Reqs>
+                    <Res type="WOOD">2535</Res>
+                    <Res type="CLAY">3170</Res>
+                    <Res type="Iron">2220</Res>
+                    <Res type="CROP">635</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>15</CP>
+               <Upgtime>7:11:20</Upgtime>
+               <ProdInc>31300</ProdInc>
+          </Lvl>
+          <Lvl value="16">
+               <Reqs>
+                    <Res type="WOOD">3245</Res>
+                    <Res type="CLAY">4055</Res>
+                    <Res type="Iron">2840</Res>
+                    <Res type="CROP">810</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>18</CP>
+               <Upgtime>8:25:20</Upgtime>
+               <ProdInc>37900</ProdInc>
+          </Lvl>
+          <Lvl value="17">
+               <Reqs>
+                    <Res type="WOOD">4155</Res>
+                    <Res type="CLAY">5190</Res>
+                    <Res type="Iron">3635</Res>
+                    <Res type="CROP">1040</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>22</CP>
+               <Upgtime>9:51:10</Upgtime>
+               <ProdInc>45700</ProdInc>
+          </Lvl>
+          <Lvl value="18">
+               <Reqs>
+                    <Res type="WOOD">5315</Res>
+                    <Res type="CLAY">6645</Res>
+                    <Res type="Iron">4650</Res>
+                    <Res type="CROP">1330</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>27</CP>
+               <Upgtime>11:30:50</Upgtime>
+               <ProdInc>55100</ProdInc>
+          </Lvl>
+          <Lvl value="19">
+               <Reqs>
+                    <Res type="WOOD">6805</Res>
+                    <Res type="CLAY">8505</Res>
+                    <Res type="Iron">5955</Res>
+                    <Res type="CROP">1700</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>32</CP>
+               <Upgtime>13:26:20</Upgtime>
+               <ProdInc>66400</ProdInc>
+          </Lvl>
+          <Lvl value="20">
+               <Reqs>
+                    <Res type="WOOD">8710</Res>
+                    <Res type="CLAY">10890</Res>
+                    <Res type="Iron">7620</Res>
+                    <Res type="CROP">2180</Res>
+                    <Structure id="15" level="1" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>38</CP>
+               <Upgtime>15:40:20</Upgtime>
+               <ProdInc>80000</ProdInc>
+          </Lvl>
+     </Structure>
+     <Structure id="12" name="Blacksmith">
+          <Lvl value="1">
+               <Reqs>
+                    <Res type="WOOD">170</Res>
+                    <Res type="CLAY">200</Res>
+                    <Res type="Iron">380</Res>
+                    <Res type="CROP">130</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="3" />
+               </Reqs>
+               <CU>4</CU>
+               <CP>2</CP>
+               <Upgtime>0:33:20</Upgtime>
+               <ResearchCap>1</ResearchCap>
+          </Lvl>
+          <Lvl value="2">
+               <Reqs>
+                    <Res type="WOOD">220</Res>
+                    <Res type="CLAY">255</Res>
+                    <Res type="Iron">485</Res>
+                    <Res type="CROP">165</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="3" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>3</CP>
+               <Upgtime>0:43:40</Upgtime>
+               <ResearchCap>2</ResearchCap>
+          </Lvl>
+          <Lvl value="3">
+               <Reqs>
+                    <Res type="WOOD">280</Res>
+                    <Res type="CLAY">330</Res>
+                    <Res type="Iron">625</Res>
+                    <Res type="CROP">215</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="3" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>3</CP>
+               <Upgtime>0:55:40</Upgtime>
+               <ResearchCap>3</ResearchCap>
+          </Lvl>
+          <Lvl value="4">
+               <Reqs>
+                    <Res type="WOOD">355</Res>
+                    <Res type="CLAY">420</Res>
+                    <Res type="Iron">795</Res>
+                    <Res type="CROP">275</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="3" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>4</CP>
+               <Upgtime>1:09:30</Upgtime>
+               <ResearchCap>4</ResearchCap>
+          </Lvl>
+          <Lvl value="5">
+               <Reqs>
+                    <Res type="WOOD">455</Res>
+                    <Res type="CLAY">535</Res>
+                    <Res type="Iron">1020</Res>
+                    <Res type="CROP">350</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="3" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>5</CP>
+               <Upgtime>1:25:40</Upgtime>
+               <ResearchCap>5</ResearchCap>
+          </Lvl>
+          <Lvl value="6">
+               <Reqs>
+                    <Res type="WOOD">585</Res>
+                    <Res type="CLAY">685</Res>
+                    <Res type="Iron">1305</Res>
+                    <Res type="CROP">445</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="3" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>6</CP>
+               <Upgtime>1:44:20</Upgtime>
+               <ResearchCap>6</ResearchCap>
+          </Lvl>
+          <Lvl value="7">
+               <Reqs>
+                    <Res type="WOOD">750</Res>
+                    <Res type="CLAY">880</Res>
+                    <Res type="Iron">1670</Res>
+                    <Res type="CROP">570</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="3" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>7</CP>
+               <Upgtime>2:06:10</Upgtime>
+               <ResearchCap>7</ResearchCap>
+          </Lvl>
+          <Lvl value="8">
+               <Reqs>
+                    <Res type="WOOD">955</Res>
+                    <Res type="CLAY">1125</Res>
+                    <Res type="Iron">2140</Res>
+                    <Res type="CROP">730</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="3" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>9</CP>
+               <Upgtime>2:31:20</Upgtime>
+               <ResearchCap>8</ResearchCap>
+          </Lvl>
+          <Lvl value="9">
+               <Reqs>
+                    <Res type="WOOD">1225</Res>
+                    <Res type="CLAY">1440</Res>
+                    <Res type="Iron">2740</Res>
+                    <Res type="CROP">935</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="3" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>10</CP>
+               <Upgtime>3:00:30</Upgtime>
+               <ResearchCap>9</ResearchCap>
+          </Lvl>
+          <Lvl value="10">
+               <Reqs>
+                    <Res type="WOOD">1570</Res>
+                    <Res type="CLAY">1845</Res>
+                    <Res type="Iron">3505</Res>
+                    <Res type="CROP">1200</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="3" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>12</CP>
+               <Upgtime>3:34:20</Upgtime>
+               <ResearchCap>10</ResearchCap>
+          </Lvl>
+          <Lvl value="11">
+               <Reqs>
+                    <Res type="WOOD">2005</Res>
+                    <Res type="CLAY">2360</Res>
+                    <Res type="Iron">4485</Res>
+                    <Res type="CROP">1535</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="3" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>15</CP>
+               <Upgtime>4:13:40</Upgtime>
+               <ResearchCap>11</ResearchCap>
+          </Lvl>
+          <Lvl value="12">
+               <Reqs>
+                    <Res type="WOOD">2570</Res>
+                    <Res type="CLAY">3020</Res>
+                    <Res type="Iron">5740</Res>
+                    <Res type="CROP">1965</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="3" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>18</CP>
+               <Upgtime>4:59:10</Upgtime>
+               <ResearchCap>12</ResearchCap>
+          </Lvl>
+          <Lvl value="13">
+               <Reqs>
+                    <Res type="WOOD">3290</Res>
+                    <Res type="CLAY">3870</Res>
+                    <Res type="Iron">7350</Res>
+                    <Res type="CROP">2515</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="3" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>21</CP>
+               <Upgtime>5:52:10</Upgtime>
+               <ResearchCap>13</ResearchCap>
+          </Lvl>
+          <Lvl value="14">
+               <Reqs>
+                    <Res type="WOOD">4210</Res>
+                    <Res type="CLAY">4950</Res>
+                    <Res type="Iron">9410</Res>
+                    <Res type="CROP">3220</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="3" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>26</CP>
+               <Upgtime>6:53:30</Upgtime>
+               <ResearchCap>14</ResearchCap>
+          </Lvl>
+          <Lvl value="15">
+               <Reqs>
+                    <Res type="WOOD">5390</Res>
+                    <Res type="CLAY">6340</Res>
+                    <Res type="Iron">12045</Res>
+                    <Res type="CROP">4120</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="3" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>31</CP>
+               <Upgtime>8:04:40</Upgtime>
+               <ResearchCap>15</ResearchCap>
+          </Lvl>
+          <Lvl value="16">
+               <Reqs>
+                    <Res type="WOOD">6895</Res>
+                    <Res type="CLAY">8115</Res>
+                    <Res type="Iron">15415</Res>
+                    <Res type="CROP">5275</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="3" />
+               </Reqs>
+               <CU>4</CU>
+               <CP>37</CP>
+               <Upgtime>9:27:10</Upgtime>
+               <ResearchCap>16</ResearchCap>
+          </Lvl>
+          <Lvl value="17">
+               <Reqs>
+                    <Res type="WOOD">8825</Res>
+                    <Res type="CLAY">10385</Res>
+                    <Res type="Iron">19730</Res>
+                    <Res type="CROP">6750</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="3" />
+               </Reqs>
+               <CU>4</CU>
+               <CP>44</CP>
+               <Upgtime>11:02:50</Upgtime>
+               <ResearchCap>17</ResearchCap>
+          </Lvl>
+          <Lvl value="18">
+               <Reqs>
+                    <Res type="WOOD">11300</Res>
+                    <Res type="CLAY">13290</Res>
+                    <Res type="Iron">25255</Res>
+                    <Res type="CROP">8640</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="3" />
+               </Reqs>
+               <CU>4</CU>
+               <CP>53</CP>
+               <Upgtime>12:54:00</Upgtime>
+               <ResearchCap>18</ResearchCap>
+          </Lvl>
+          <Lvl value="19">
+               <Reqs>
+                    <Res type="WOOD">14460</Res>
+                    <Res type="CLAY">17015</Res>
+                    <Res type="Iron">32325</Res>
+                    <Res type="CROP">11060</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="3" />
+               </Reqs>
+               <CU>4</CU>
+               <CP>64</CP>
+               <Upgtime>15:02:50</Upgtime>
+               <ResearchCap>19</ResearchCap>
+          </Lvl>
+          <Lvl value="20">
+               <Reqs>
+                    <Res type="WOOD">18510</Res>
+                    <Res type="CLAY">21780</Res>
+                    <Res type="Iron">41380</Res>
+                    <Res type="CROP">14155</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="3" />
+               </Reqs>
+               <CU>4</CU>
+               <CP>77</CP>
+               <Upgtime>17:32:10</Upgtime>
+               <ResearchCap>20</ResearchCap>
+          </Lvl>
+     </Structure>
+     <Structure id="13" name="Armoury">
+          <Lvl value="1">
+               <Reqs>
+                    <Res type="WOOD">130</Res>
+                    <Res type="CLAY">210</Res>
+                    <Res type="Iron">410</Res>
+                    <Res type="CROP">130</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="1" />
+               </Reqs>
+               <CU>4</CU>
+               <CP>2</CP>
+               <Upgtime>0:33:20</Upgtime>
+               <ResearchCap>1</ResearchCap>
+          </Lvl>
+          <Lvl value="2">
+               <Reqs>
+                    <Res type="WOOD">165</Res>
+                    <Res type="CLAY">270</Res>
+                    <Res type="Iron">525</Res>
+                    <Res type="CROP">165</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="1" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>3</CP>
+               <Upgtime>0:43:40</Upgtime>
+               <ResearchCap>2</ResearchCap>
+          </Lvl>
+          <Lvl value="3">
+               <Reqs>
+                    <Res type="WOOD">215</Res>
+                    <Res type="CLAY">345</Res>
+                    <Res type="Iron">670</Res>
+                    <Res type="CROP">215</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="1" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>3</CP>
+               <Upgtime>0:55:40</Upgtime>
+               <ResearchCap>3</ResearchCap>
+          </Lvl>
+          <Lvl value="4">
+               <Reqs>
+                    <Res type="WOOD">275</Res>
+                    <Res type="CLAY">440</Res>
+                    <Res type="Iron">860</Res>
+                    <Res type="CROP">275</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="1" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>4</CP>
+               <Upgtime>1:09:30</Upgtime>
+               <ResearchCap>4</ResearchCap>
+          </Lvl>
+          <Lvl value="5">
+               <Reqs>
+                    <Res type="WOOD">350</Res>
+                    <Res type="CLAY">565</Res>
+                    <Res type="Iron">1100</Res>
+                    <Res type="CROP">350</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="1" />
+               </Reqs>
+               <CU>2</CU>
+               <CP>5</CP>
+               <Upgtime>1:25:40</Upgtime>
+               <ResearchCap>5</ResearchCap>
+          </Lvl>
+          <Lvl value="6">
+               <Reqs>
+                    <Res type="WOOD">445</Res>
+                    <Res type="CLAY">720</Res>
+                    <Res type="Iron">1410</Res>
+                    <Res type="CROP">445</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="1" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>6</CP>
+               <Upgtime>1:44:20</Upgtime>
+               <ResearchCap>6</ResearchCap>
+          </Lvl>
+          <Lvl value="7">
+               <Reqs>
+                    <Res type="WOOD">570</Res>
+                    <Res type="CLAY">925</Res>
+                    <Res type="Iron">1805</Res>
+                    <Res type="CROP">570</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="1" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>7</CP>
+               <Upgtime>2:06:10</Upgtime>
+               <ResearchCap>7</ResearchCap>
+          </Lvl>
+          <Lvl value="8">
+               <Reqs>
+                    <Res type="WOOD">730</Res>
+                    <Res type="CLAY">1180</Res>
+                    <Res type="Iron">2310</Res>
+                    <Res type="CROP">730</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="1" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>9</CP>
+               <Upgtime>2:31:20</Upgtime>
+               <ResearchCap>8</ResearchCap>
+          </Lvl>
+          <Lvl value="9">
+               <Reqs>
+                    <Res type="WOOD">935</Res>
+                    <Res type="CLAY">1515</Res>
+                    <Res type="Iron">2955</Res>
+                    <Res type="CROP">935</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="1" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>10</CP>
+               <Upgtime>3:00:30</Upgtime>
+               <ResearchCap>9</ResearchCap>
+          </Lvl>
+          <Lvl value="10">
+               <Reqs>
+                    <Res type="WOOD">1200</Res>
+                    <Res type="CLAY">1935</Res>
+                    <Res type="Iron">3780</Res>
+                    <Res type="CROP">1200</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="1" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>12</CP>
+               <Upgtime>3:34:20</Upgtime>
+               <ResearchCap>10</ResearchCap>
+          </Lvl>
+          <Lvl value="11">
+               <Reqs>
+                    <Res type="WOOD">1535</Res>
+                    <Res type="CLAY">2480</Res>
+                    <Res type="Iron">4840</Res>
+                    <Res type="CROP">1535</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="1" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>15</CP>
+               <Upgtime>4:13:40</Upgtime>
+               <ResearchCap>11</ResearchCap>
+          </Lvl>
+          <Lvl value="12">
+               <Reqs>
+                    <Res type="WOOD">1965</Res>
+                    <Res type="CLAY">3175</Res>
+                    <Res type="Iron">6195</Res>
+                    <Res type="CROP">1965</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="1" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>18</CP>
+               <Upgtime>4:59:10</Upgtime>
+               <ResearchCap>12</ResearchCap>
+          </Lvl>
+          <Lvl value="13">
+               <Reqs>
+                    <Res type="WOOD">2515</Res>
+                    <Res type="CLAY">4060</Res>
+                    <Res type="Iron">7930</Res>
+                    <Res type="CROP">2515</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="1" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>21</CP>
+               <Upgtime>5:52:10</Upgtime>
+               <ResearchCap>13</ResearchCap>
+          </Lvl>
+          <Lvl value="14">
+               <Reqs>
+                    <Res type="WOOD">3220</Res>
+                    <Res type="CLAY">5200</Res>
+                    <Res type="Iron">10150</Res>
+                    <Res type="CROP">3220</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="1" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>26</CP>
+               <Upgtime>6:53:30</Upgtime>
+               <ResearchCap>14</ResearchCap>
+          </Lvl>
+          <Lvl value="15">
+               <Reqs>
+                    <Res type="WOOD">4120</Res>
+                    <Res type="CLAY">6655</Res>
+                    <Res type="Iron">12995</Res>
+                    <Res type="CROP">4120</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="1" />
+               </Reqs>
+               <CU>3</CU>
+               <CP>31</CP>
+               <Upgtime>8:04:40</Upgtime>
+               <ResearchCap>15</ResearchCap>
+          </Lvl>
+          <Lvl value="16">
+               <Reqs>
+                    <Res type="WOOD">5275</Res>
+                    <Res type="CLAY">8520</Res>
+                    <Res type="Iron">16630</Res>
+                    <Res type="CROP">5275</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="1" />
+               </Reqs>
+               <CU>4</CU>
+               <CP>37</CP>
+               <Upgtime>9:27:10</Upgtime>
+               <ResearchCap>16</ResearchCap>
+          </Lvl>
+          <Lvl value="17">
+               <Reqs>
+                    <Res type="WOOD">6750</Res>
+                    <Res type="CLAY">10905</Res>
+                    <Res type="Iron">21290</Res>
+                    <Res type="CROP">6750</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="1" />
+               </Reqs>
+               <CU>4</CU>
+               <CP>44</CP>
+               <Upgtime>11:02:50</Upgtime>
+               <ResearchCap>17</ResearchCap>
+          </Lvl>
+          <Lvl value="18">
+               <Reqs>
+                    <Res type="WOOD">8640</Res>
+                    <Res type="CLAY">13955</Res>
+                    <Res type="Iron">27250</Res>
+                    <Res type="CROP">8640</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="1" />
+               </Reqs>
+               <CU>4</CU>
+               <CP>53</CP>
+               <Upgtime>12:54:00</Upgtime>
+               <ResearchCap>18</ResearchCap>
+          </Lvl>
+          <Lvl value="19">
+               <Reqs>
+                    <Res type="WOOD">11060</Res>
+                    <Res type="CLAY">17865</Res>
+                    <Res type="Iron">34880</Res>
+                    <Res type="CROP">11060</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="1" />
+               </Reqs>
+               <CU>4</CU>
+               <CP>64</CP>
+               <Upgtime>15:02:50</Upgtime>
+               <ResearchCap>19</ResearchCap>
+          </Lvl>
+          <Lvl value="20">
+               <Reqs>
+                    <Res type="WOOD">14155</Res>
+                    <Res type="CLAY">22865</Res>
+                    <Res type="Iron">44645</Res>
+                    <Res type="CROP">14155</Res>
+                    <Structure id="15" level="3" />
+                    <Structure id="22" level="1" />
+               </Reqs>
+               <CU>4</CU>
+               <CP>77</CP>
+               <Upgtime>17:32:10</Upgtime>
+               <ResearchCap>20</ResearchCap>
+          </Lvl>
+     </Structure>
+</Structures>

@@ -1,0 +1,34 @@
+﻿village type					: (?<=<div id="village_map" class="f)\d*(?=">)
+village is central				: \(Merkez\)
+village info					: <td class="(dot.*?)".*?(\d+)">(.*?)</a>
+
+f*				: class="reslevel rf(?<id>\d+) level(?<level>\d+)" alt="(?<type>\S*)
+b*				: class="building d(?<id>\d+) (?:(?<full>g)|(?<empty>iso))(?(full)(?<type>\d*))"(?(full).+?Seviye (?<level>\d+))
+active village	: <td class="dot  hl">.*?vid=(?<id>\d+)
+random key		: (?<=&k=).{5}
+p*				: <tr.*\r\n.*>\r\n.*uid=(?<id>\d+)">\r\n(?:\s+<.*?>)*\s*(?<name>[^\s]*).*>\r\n.*>\r\n[^>]*>(?<isally><)*.*(?(isally)id=(?<allyid>\d+)">(?<allyname>.*?)<)
+v*				: dorf3\.php\?id=(?<id>\d+)">(?<name>.*?)<\/a>(?<central> )*.*\n.*?hab">(?<pop>\d+)
+v owner name	: oyuncu (?<name>.*?)\s
+v owner id		: nachrichten\.php\?uid=(?<id>\d+)
+
+report count	: <span(?<newreport>.*?background: #009900;.*?>)*(?(newreport)(?<count>\d+))
+reports ids		: berichte\.php\?id=(?<id>\d+).*?yeni
+unit ids		: unit u(?<id>\d+)
+unit counts		: <th>Ordu birlikleri<\/th>\n\s*<td(?: class="none")*>(\d+)<\/td>\s*<td(?: class="none")*>(\d+)<\/td>\s*<td(?: class="none")*>(\d+)<\/td>\s*<td(?: class="none")*>(\d+)<\/td>\s*<td(?: class="none")*>(\d+)<\/td>\s*<td(?: class="none")*>(\d+)<\/td>\s*<td(?: class="none")*>(\d+)<\/td>\s*<td(?: class="none")*>(\d+)<\/td>\s*<td(?: class="none")*>(\d+)<\/td>\s*<td(?: class="none")*>(\d+)<\/td>\s*
+unit casualties	: <th>Ölümler<\/th>\n\s*<td(?: class="none")*>(\d+)<\/td>\s*<td(?: class="none")*>(\d+)<\/td>\s*<td(?: class="none")*>(\d+)<\/td>\s*<td(?: class="none")*>(\d+)<\/td>\s*<td(?: class="none")*>(\d+)<\/td>\s*<td(?: class="none")*>(\d+)<\/td>\s*<td(?: class="none")*>(\d+)<\/td>\s*<td(?: class="none")*>(\d+)<\/td>\s*<td(?: class="none")*>(\d+)<\/td>\s*<td(?: class="none")*>(\d+)<\/td>\s*
+loot			: 
+
+upgrade time				: \d:\d\d:\d\d(?=\s)
+
+
+race							: (Roma)|(Galya)|(Cermen)
+alliance						: (?<=<th>Birlik:<\/th>.{11}).*?(?=<)
+gold							: <span style="color:red;font-weight:bold">Aktif Degil</span>
+village info2					: <td class="nam".+
+village id						: (?<=3.php\?id=)\d+
+
+upgrade cost				: \d+(?=&lt)
+village name				: (?<=<h1>).+?(?=<)
+resource stats				: \d+/\d+(?=</td>)
+wheat stat					: \d+ \| \d+ \d+
+loyalty						: \d+(?=<\/b> %)

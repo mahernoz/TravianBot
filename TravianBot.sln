@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravianBot", "TravianBot\TravianBot.csproj", "{98D7AFD2-B1DC-42AE-ADDF-A18F8A6CE729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravianBot.Test", "TravianBotTest\TravianBot.Test.csproj", "{7F9657F9-2E5B-4FF5-9054-230B37EDFEE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98D7AFD2-B1DC-42AE-ADDF-A18F8A6CE729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D7AFD2-B1DC-42AE-ADDF-A18F8A6CE729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D7AFD2-B1DC-42AE-ADDF-A18F8A6CE729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D7AFD2-B1DC-42AE-ADDF-A18F8A6CE729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F9657F9-2E5B-4FF5-9054-230B37EDFEE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F9657F9-2E5B-4FF5-9054-230B37EDFEE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F9657F9-2E5B-4FF5-9054-230B37EDFEE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F9657F9-2E5B-4FF5-9054-230B37EDFEE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
